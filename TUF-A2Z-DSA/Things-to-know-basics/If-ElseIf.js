@@ -35,7 +35,7 @@ class Solution {
       console.log("Grade B");
     } else if (marks >= 50) {
       console.log("Grade C");
-    } else if (marks >= 350) {
+    } else if (marks >= 35) {
       console.log("Grade D");
     } else {
       console.log("Fail");

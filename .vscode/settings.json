@@ -1,0 +1,14 @@
+{
+  "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "C:/MinGW/lib/gcc/mingw32/*/include/c++",
+    "C:/MinGW/lib/gcc/mingw32/*/include/c++/mingw32",
+    "C:/MinGW/lib/gcc/mingw32/*/include/c++/backward",
+    "C:/MinGW/lib/gcc/mingw32/*/include",
+    "C:/MinGW/include",
+    "C:/MinGW/lib/gcc/mingw32/*/include-fixed"
+  ],
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.cppStandard": "c++17"
+}
