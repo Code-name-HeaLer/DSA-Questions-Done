@@ -37,3 +37,6 @@ class Solution {
     process.stdout.write("GFG");
   }
 }
+
+const print = new Solution();
+print.printGfg(5);
